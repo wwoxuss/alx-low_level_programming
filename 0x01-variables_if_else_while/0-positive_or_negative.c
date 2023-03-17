@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* Main function shows if the number is positive, zero, or negative */
+/* main - Shows if the number is positive, zero, or negative */
 
-/* Return always 0 */
+/* Return: Always 0 */
 int main(void)
 {
 	int n;
