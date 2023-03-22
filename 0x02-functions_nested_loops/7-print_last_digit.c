@@ -11,8 +11,8 @@ int print_last_digit(int n)
 	if (n < 0)
 	{
 		n = -n;
-		lastDigit = n % 10;
 	}
+	lastDigit = n % 10;
 	
 	if (lastDigit < 0)
 	{
