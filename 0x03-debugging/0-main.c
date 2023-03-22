@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
  * main - tests if number is positive or negative.
  * Return: returns 0.
  */
+
 int main(void)
 {
 	int i;
