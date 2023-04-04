@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _memset - function that fills memory with a constant byte
- *@s: 1st value
- *@b: 2nd value
- *@n: 3rd value
+ * _memset - Fills memory with a constant byte
+ *@s: first value
+ *@b: second value
+ *@n: third value
  *
  * Return: returns char with result of memset
  */
